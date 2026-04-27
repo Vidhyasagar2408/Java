@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b86c9c3-bf90-4111-b7e8-bcfab4cc0b77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/com/vidhya/MaxReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/com/vidhya/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/com/vidhya/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/com/vidhya/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/com/vidhya/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/com/vidhya/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/com/vidhya/ReturnString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/com/vidhya/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern/src/rule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/src/com/vidhya/NestedSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first-java-program/conditional-and-loops/code/src/com/vidhya/AlphabetCaseCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first-java-program/conditional-and-loops/code/src/com/vidhya/CountNums.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3B2DwMrUcwQBgJyrqOkSLBscxkO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/vs152/OneDrive/Desktop/java/Recursion/src/Main.java",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b86c9c3-bf90-4111-b7e8-bcfab4cc0b77" name="Changes" comment="" />
+      <created>1773678514748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773678514748</updated>
+      <workItem from="1773678516312" duration="2149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
