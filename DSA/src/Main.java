@@ -15,7 +15,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             if(arr[i]==key) {
                 System.out.println("key found at " + i + "index");
-                break;5
+                break;
             }
         }
         System.out.println("not found");
