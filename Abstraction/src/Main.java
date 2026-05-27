@@ -1,6 +1,6 @@
 abstract class Parent {
-    abstract void disp1();
-    abstract void disp2();
+    abstract void disp1();//incomplete method
+    abstract void disp2();//incomplete method
 }
 class Child1 extends Parent{
     void disp1(){
