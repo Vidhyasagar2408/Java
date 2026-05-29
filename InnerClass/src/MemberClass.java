@@ -12,7 +12,7 @@ class Prog1 {
     }
 }
 
-class Main {
+class MemberClass {
     public static void main(String[] args) {
         Prog1 p1 = new Prog1();
         p1.disp();
