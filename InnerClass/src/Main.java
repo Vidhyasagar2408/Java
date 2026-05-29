@@ -3,7 +3,7 @@ class Prog1 {
     class Prog2 {
         int b = 20;
         void disp2() {
-
+            System.out.println(a);
             System.out.println(b);
         }
     }
