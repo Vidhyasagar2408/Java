@@ -11,11 +11,9 @@ public class SelectionSort {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
-        System.out.println("Array before sorting: ");
-        System.out.println(Arrays.toString(arr));
-        System.out.println("Array after sorting: ");
+        System.out.println("Array before sorting: " + Arrays.toString(arr));
+        System.out.println("Array after sorting: " + Arrays.toString(arr));
         selectionSort(arr);
-        System.out.println(Arrays.toString(arr));
     }
     static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
