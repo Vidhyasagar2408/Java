@@ -4,7 +4,7 @@ import java.io.IOException;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Version1 {
     public static void main(String[] args) throws IOException {
         String path1 = "C:\\FileHandler\\input.txt";
         String path2 = "C:\\FileHandler\\output.txt";
