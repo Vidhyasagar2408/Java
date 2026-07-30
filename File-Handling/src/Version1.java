@@ -1,4 +1,4 @@
-// small data
+// small set of data
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
