@@ -3,7 +3,7 @@ import java.io.Serializable;
 public class Student implements Serializable {
 
     private int id;
-    private transient String name;
+    private String name;
     private int age;
     private int marks;
 
