@@ -6,8 +6,8 @@ import java.io.ObjectOutputStream;
 public class StudentApp {
     public static void main(String[] args) throws IOException {
         Student s = new Student(1, "Vidhya", 23, 85);
-        String path1 = "C://FileHandler//Student.txt";
-        FileOutputStream fos = new FileOutputStream(path1);
+        String path = "C://FileHandler//Student.txt";
+        FileOutputStream fos = new FileOutputStream(path);
         ObjectOutputStream oos = new ObjectOutputStream(fos);
         Object Student;
         oos.writeObject(s);
