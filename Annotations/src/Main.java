@@ -7,8 +7,6 @@ public class Main {
         int b = 20;
         int c = 30;
         int d = 40;
-        int e = a+b+c+d;
-        System.out.println(e);
     }
     void decArray() {
         ArrayList al = new ArrayList();
